@@ -325,7 +325,7 @@ imagemagick:
     - 800
     - 1400
   input_directories:
-    - C:\Users\gusme\Repositorios\Gusmentor.github.io\assets\img
+    - /assets/img
   input_formats:
     - ".jpg"
     - ".jpeg"

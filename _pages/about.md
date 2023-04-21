@@ -6,7 +6,7 @@ subtitle: <a href='#'></a>. Correo electrónico. gusmentor1@gmail.com
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: C:/Users/gusme/Repositorios/Gusmentor.github.io/assets/img/prof_pic.jpg
   image_circular: false # crops the image to make it circular
   address: >
     <p>53+ 55 8368 1963</p>
