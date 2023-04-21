@@ -7,9 +7,9 @@ subtitle: <a href='#'></a>. Correo electrónico. gusmentor1@gmail.com
 profile:
   align: right
   image: prof_pic.jpg
-  image_circular: true # crops the image to make it circular
+  image_circular: false # crops the image to make it circular
   address: >
-    <p>53+ 5583681963</p>
+    <p>53+ 55 8368 1963</p>
     <p>Tlalnepantla de baz</p>
     <p>Estado de México</p>
 
@@ -24,4 +24,4 @@ Estudiante de ingenieria en computación en Universida Autonoma del Estado de M�
 
 Pudes contactarme en Facebook: [Edgar Gustavo MT](https://www.facebook.com/edgargustavo.mendiolatorres/).  
 
-Te invito a ver el siguiente contenido: [Videos](youtube.com/channel/UCcUmfrbGdhpYVSBQcHIBSVA).
+Te invito a ver el siguiente contenido: [Videos](https://www.youtube.com/channel/UCcUmfrbGdhpYVSBQcHIBSVA).
